@@ -1,0 +1,25 @@
+﻿.alernateStyle {
+    background-color:#4d4843;
+    color: lightsalmon;
+}
+.alernateStyle #headerSection {
+    margin-bottom: 50px;
+    color: #dee394;
+}
+.alernateStyle .mainContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    min-height: 60vh;
+}
+
+.alernateStyle .sectionOne, .sectionTwo {
+    border: 5px dotted lightsalmon;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+}
